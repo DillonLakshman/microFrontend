@@ -1,0 +1,8 @@
+{
+  "name": "my-header-v1",
+  "author":"Dillon Lakshman",
+  "version": "0.0.1",
+   "main": "bundles/my-header-v1.umd.js",
+  "module": "index.js",
+  "typings": "index.d.ts"
+}
